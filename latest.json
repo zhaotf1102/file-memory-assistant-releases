@@ -1,6 +1,6 @@
 {
-  "version": "0.5.5",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.5/FileMemoryAssistant_Setup_v0.5.5.exe",
-  "sha256": "30f90c0d78fa6be0fe4d40067fb0f58809c456e2fd4c2a15a1582afe68d4fc6a",
-  "notes": "v0.5.5 自动发布版：同步新版卡片 UI，并修复旧版本在线更新链路。"
+  "version": "0.5.6",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.6/FileMemoryAssistant_Setup_v0.5.6.exe",
+  "sha256": "6081f3296826b8a3c0a2daf9d9b48b16153fde9194a897afc1db5d05a66fa1b9",
+  "notes": "v0.5.6 自动发布版：同步新版卡片 UI，并修复旧版本在线更新链路。"
 }
