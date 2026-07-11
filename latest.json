@@ -1,6 +1,6 @@
 {
-  "version": "0.5.9",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.9/FileMemoryAssistant_Setup_v0.5.9.exe",
-  "sha256": "4f63638353eee3eb58b49bbdb0b8e5d654bc37055879e34bcccee35a8429eb08",
-  "notes": "v0.5.9：新增横条/宫格结果视图、视图偏好记忆、相关度/修改时间/文件名排序，并完善空搜索和无结果状态。"
+  "version": "0.5.10",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.10/FileMemoryAssistant_Setup_v0.5.10.exe",
+  "sha256": "d86159143199d68bfc498f543ae4d95775c9ebe8a4230327e8df06fed9f60008",
+  "notes": "v0.5.10：整合 sqlite-vec、FastEmbed、BGE 中文语义模型、FlagEmbedding 二次排序、RapidOCR 和 watchdog 本地增量索引。"
 }
