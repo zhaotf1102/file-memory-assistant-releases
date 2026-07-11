@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.6.2/FileMemoryAssistant_Setup_v0.6.2.exe",
-  "sha256": "b30b1d085594feb4a9c8bc93af95ceac91a3030fc7814d33f95e48e25666e49e",
-  "notes": "v0.6.2：修复更新时界面卡死，新增后台检查、实时下载进度、完整性校验状态和失败重试提示。"
+  "version": "0.7.2",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.7.2/FileMemoryAssistant_Setup_v0.7.2.exe",
+  "sha256": "2e0d1a89df90f511cfebffeda84ba5c27cabd8dcb7198c5c958082bc4869f0c2",
+  "notes": "v0.7.2：新增打印助手，支持文件/文件夹与搜索结果导入、OCR/本地语义分类、批量命名预览与分类副本导出、首张预览、重复及版式风险检查、统一 PDF 打印包、打印机与预设、热文件夹自动接收和打印历史。"
 }
