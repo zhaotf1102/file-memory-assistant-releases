@@ -1,6 +1,6 @@
 {
   "version": "0.6.1",
   "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.6.1/FileMemoryAssistant_Setup_v0.6.1.exe",
-  "sha256": "3e0d08536413916bca5998338d8c3b2ec80721201434e3c3b11ad6acde454862",
+  "sha256": "0f5050fe1a60c6823914078c75c6d004e7382c2520b3fa551121fd56fbf21d7f",
   "notes": "v0.6.1：修复全屏与高 DPI 下的控件截断，新增 80%–160% 界面缩放、响应式换行和多分辨率适配。"
 }
