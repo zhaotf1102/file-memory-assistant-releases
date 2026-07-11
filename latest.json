@@ -1,6 +1,6 @@
 {
-  "version": "0.5.10",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.10/FileMemoryAssistant_Setup_v0.5.10.exe",
-  "sha256": "d86159143199d68bfc498f543ae4d95775c9ebe8a4230327e8df06fed9f60008",
-  "notes": "v0.5.10：整合 sqlite-vec、FastEmbed、BGE 中文语义模型、FlagEmbedding 二次排序、RapidOCR 和 watchdog 本地增量索引。"
+  "version": "0.6.0",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.6.0/FileMemoryAssistant_Setup_v0.6.0.exe",
+  "sha256": "08ab4b74449a619736eb4370499a856e8ae9d4c7f7ac6ae2383164150dc820ae",
+  "notes": "v0.6.0：新增系统托盘、关闭确认与偏好记忆、Ctrl+Alt+Space 全局快捷键、轻量快速搜索窗口，并延续后台增量索引。"
 }
