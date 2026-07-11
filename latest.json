@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.7/FileMemoryAssistant_Setup_v0.5.7.exe",
-  "sha256": "7cf3d2701ea619e2baabd96045f5dd377e16cda2d7675d94734fd20b3242a03e",
-  "notes": "v0.5.7：加入正式应用图标，并修复 Release 标题中文乱码隐患。"
+  "version": "0.5.8",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.5.8/FileMemoryAssistant_Setup_v0.5.8.exe",
+  "sha256": "4314219c718339d838230fac412926ca638d38dbcc76a8eaf6e45f341f43ba1c",
+  "notes": "v0.5.8：新增智能搜索，可理解时间、来源和文件类型，并支持文件名模糊匹配。"
 }
