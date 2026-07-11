@@ -1,6 +1,6 @@
 {
   "version": "0.8.1",
   "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.1/FileMemoryAssistant_Setup_v0.8.1.exe",
-  "sha256": "d2d3597b4b3f752617492a246c258d8712891a6ba1a2754f8b155d32fac42a86",
+  "sha256": "5a8fe0241460ed1b9e77b839ebdb093c205f630efcc38cbe8bdedae4a3ae180b",
   "notes": "v0.8.1：修复程序多开问题。首次启动后，重复点击桌面图标只会唤醒并置顶已有主窗口，不再创建第二个窗口、托盘、快捷键或后台索引实例。"
 }
