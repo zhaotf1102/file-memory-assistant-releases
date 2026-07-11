@@ -1,6 +1,6 @@
 {
   "version": "0.8.0",
   "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.0/FileMemoryAssistant_Setup_v0.8.0.exe",
-  "sha256": "53e5d851158baac0fac01e454f835fe13bcee43b1bda6cf0a24959419dd22b2e",
+  "sha256": "d6c6b1c94b6c729976d1a7949f3973cdaa66b273fd73fccf455a01ea91ae094d",
   "notes": "v0.8.0：新增扫描回流，支持生成二维码分隔页打印包、将盖章后的单个扫描 PDF 自动拆回原文件顺序与名称、移除分隔页、保留目录结构并输出已盖章副本。"
 }
