@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.6.0/FileMemoryAssistant_Setup_v0.6.0.exe",
-  "sha256": "08ab4b74449a619736eb4370499a856e8ae9d4c7f7ac6ae2383164150dc820ae",
-  "notes": "v0.6.0：新增系统托盘、关闭确认与偏好记忆、Ctrl+Alt+Space 全局快捷键、轻量快速搜索窗口，并延续后台增量索引。"
+  "version": "0.6.1",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.6.1/FileMemoryAssistant_Setup_v0.6.1.exe",
+  "sha256": "3e0d08536413916bca5998338d8c3b2ec80721201434e3c3b11ad6acde454862",
+  "notes": "v0.6.1：修复全屏与高 DPI 下的控件截断，新增 80%–160% 界面缩放、响应式换行和多分辨率适配。"
 }
