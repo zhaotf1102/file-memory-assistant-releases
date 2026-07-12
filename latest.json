@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.4/FileMemoryAssistant_Setup_v0.8.4.exe",
-  "sha256": "9d97e99a7d374ff66dc944a00f136d7e1457a367690c793a487c63bd6577a30e",
-  "notes": "v0.8.4：将打印助手移动到首页正下方，侧边栏顺序统一为首页、打印助手、我的助手；同时修复首页在较矮窗口和高 DPI 下内容被压缩的问题，提升说明文字可读性。"
+  "version": "0.8.5",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.5/FileMemoryAssistant_Setup_v0.8.5.exe",
+  "sha256": "ea1dfdadc2cdc95f1a8a088b2fe6f87a6d65d94ff26812aad879780d77347310",
+  "notes": "v0.8.5：修复更新包校验失败与重复发布缓存问题。安装包校验失败会自动换缓存地址重试；每个版本只允许发布一次，公开安装包验证成功后才更新版本清单。同时包含单实例修复。"
 }
