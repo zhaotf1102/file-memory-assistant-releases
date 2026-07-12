@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.3/FileMemoryAssistant_Setup_v0.8.3.exe",
-  "sha256": "482d55d9a067e4e440e9c62e9399797d889a803463a36723e9b62d2edaa60a02",
-  "notes": "v0.8.3：修复更新包校验失败与重复发布缓存问题。安装包校验失败会自动换缓存地址重试；每个版本只允许发布一次，公开安装包验证成功后才更新版本清单。同时包含单实例修复。"
+  "version": "0.8.4",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.4/FileMemoryAssistant_Setup_v0.8.4.exe",
+  "sha256": "9d97e99a7d374ff66dc944a00f136d7e1457a367690c793a487c63bd6577a30e",
+  "notes": "v0.8.4：修复更新包校验失败与重复发布缓存问题。安装包校验失败会自动换缓存地址重试；每个版本只允许发布一次，公开安装包验证成功后才更新版本清单。同时包含单实例修复。"
 }
