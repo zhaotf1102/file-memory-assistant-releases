@@ -1,6 +1,6 @@
 {
-  "version": "0.8.6",
-  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.6/FileMemoryAssistant_Setup_v0.8.6.exe",
-  "sha256": "d7db7dd6b90bed25afef8f805bafd5b0958d753a3a904112c9f6266a35f3ed01",
-  "notes": "v0.8.6：新增三步首次启动引导，帮助新用户添加文件位置、建立本地文件记忆，并快速进入搜索或打印助手；已有用户升级后不会被强制打断，可在“我的助手”中随时重新打开指南。"
+  "version": "0.8.7",
+  "installer_url": "https://github.com/zhaotf1102/file-memory-assistant-releases/releases/download/v0.8.7/FileMemoryAssistant_Setup_v0.8.7.exe",
+  "sha256": "67500ec7aec0d1db96fdb737b7ef9dae5daf2667d7b9d339e580a8fe0f5b3a72",
+  "notes": "## v0.8.7 更新安全热修\n\n本版本修复在线更新后程序入口提示“已被删除”、图标失效以及软件没有可靠自动重新出现的问题。\n\n### 用户可见变化\n\n- 更新包准备完成后，软件会自动关闭、安装并重新打开新版本。\n- 更新全过程明确提示“无需手动点击旧图标”。\n- 安装成功后刷新开始菜单快捷方式；原本存在桌面图标时一并恢复。\n- 新版本启动成功后才显示更新完成。\n\n### 安全保护\n\n- 更新改为事务式替换：旧版本先完整保存为回滚副本，新版本确认可启动后才清理旧版本。\n- 如果程序目录仍被占用，更新会停止并保留原程序，不再强行删除。\n- 新文件、快捷方式或启动验证任一步失败时，会自动恢复并重新启动旧版本。\n- 用户的数据库、索引和设置仍保存在独立的本地数据目录，不随程序替换删除。\n\n### 验收\n\n- 事务替换、目录锁定保护、回滚和自动启动顺序测试通过。\n- Windows 更新器辅助测试通过。\n- Windows UI、打印扫描工作区、多分辨率和 DPI 测试通过。\n- 发布工作流还必须通过真实打包 EXE 启动、Tk runtime hook、公开安装包 SHA256 和更新清单验证。\n\n由于 v0.8.6 已出现程序入口失效，当前受影响用户需要手动运行一次 v0.8.7 安装包恢复程序；从 v0.8.7 开始，后续在线更新将自动完成关闭、安装和重启。"
 }
